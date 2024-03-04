@@ -1,0 +1,10 @@
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\Login\bin\Debug\Login.exe.config
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\Login\bin\Debug\Login.exe
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\Login\bin\Debug\Login.pdb
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\Login\obj\Debug\Login.Form1.resources
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\Login\obj\Debug\Login.exe
+C:\Users\emir_\OneDrive\Masaüstü\Developer\nesne_ve_ag_tabanli\Login\obj\Debug\Login.pdb

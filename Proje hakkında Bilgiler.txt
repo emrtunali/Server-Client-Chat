@@ -1,0 +1,14 @@
+Ağ Temelleri ve Nesne Tabanlı Proje
+Emir Tunalı
+Bilgisayar Programcılığı
+No:200030231
+
+Özellikler
+Login Ekranı: Kullanıcılar uygulamaya giriş yapabilir.
+Kayıt Ekranı: Yeni kullanıcılar kayıt olabilir.
+İkonlar: Hem client hem de server için özel ikonlar.
+Renk Değiştiren Butonlar: Kullanıcı etkileşimi ile renk değiştiren butonlar.
+Buton İkonları: Her buton için özel ikonlar.
+Anlık Mesajlaşma: Gönderilen mesajlar karşı kullanıcıya anlık ulaşır.
+Client Ekranında Kullanıcı Ekleme: Kullanıcılar client ekranındayken yeni kullanıcı ekleyebilir.
+Oyun: Kullanıcıların eğlenmesi için bir oyun eklenmiştir.
